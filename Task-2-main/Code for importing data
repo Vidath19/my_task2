@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Replace 'your_dataset.csv' with the actual file path or URL of your dataset
-data = pd.read_csv('Task 2.csv')
+data = pd.read_csv('/Users/vidath/Desktop.csv')
 
 # Display the first ten rows of the dataset
 first_ten_rows = data.head(10)
